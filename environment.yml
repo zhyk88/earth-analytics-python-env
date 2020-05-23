@@ -21,7 +21,7 @@ dependencies:
   - rasterstats
   - geopy
   - cartopy
-  #- geopandas
+  - geopandas
   - contextily
   - earthpy
   - folium
